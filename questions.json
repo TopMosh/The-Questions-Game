@@ -1,0 +1,68 @@
+{
+    "r": "255",
+    "g": "200",
+    "b": "0",
+    "questions": [ 
+        {
+            "no": 1,
+            "question": "Question 1: Does brandon love Jalwan? A.Yes B.Yes C.Yes D.Yes",
+            "answer": "A"
+        },
+
+        {
+            "no": 2,
+            "question": "Question 2: Does brandon love Jalwan? A.Yes B.Yes C.Yes D.Yes",
+            "answer": "A"
+        },
+
+        {
+            "no": 3,
+            "question": "Question 3: Does brandon love Jalwan? A.Yes B.Yes C.Yes D.Yes",
+            "answer": "A"
+        },
+
+        {
+            "no": 4,
+            "question": "Question 4: Does brandon love Jalwan? A.Yes B.Yes C.Yes D.Yes",
+            "answer": "A"
+        },
+
+        {
+            "no": 5,
+            "question": "Question 5: Does brandon love Jalwan? A.Yes B.Yes C.Yes D.Yes",
+            "answer": "A"
+        },
+
+        {
+            "no": 6,
+            "question": "Question 6: Does brandon love Jalwan? A.Yes B.Yes C.Yes D.Yes",
+            "answer": "A"
+        },
+
+        {
+            "no": 7,
+            "question": "Question 7: Does brandon love Jalwan? A.Yes B.Yes C.Yes D.Yes",
+            "answer": "A"
+        },
+
+        {
+            "no": 8,
+            "question": "Question 8: Does brandon love Jalwan? A.Yes B.Yes C.Yes D.Yes",
+            "answer": "A"
+        },
+
+        {
+            "no": 9,
+            "question": "Question 9: Does brandon love Jalwan? A.Yes B.Yes C.Yes D.Yes",
+            "answer": "A"
+        },
+
+        {
+            "no": 10,
+            "question": "Question 10: Does brandon love Jalwan? A.Yes B.Yes C.Yes D.Yes",
+            "answer": "A"
+        }
+
+    ]
+
+}
