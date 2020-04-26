@@ -5,6 +5,8 @@ function preload(){
 }
 
 displayQuestion = null;
+let scoreCount = null
+let count = 0
 
 function setup() {
   createCanvas(windowWidth, windowHeight)
@@ -40,6 +42,12 @@ function draw() {
 
   }
 
+  if (scoreCount != null){
+    textAlign(CENTER)
+    fill(questions.r, questions.g, questions.b)
+    text(scoreCount, width/2, 600)
+  }
+
   // textAlign(CENTER)
   // fill(questions.r, questions.g, questions.b)
   // text(questions.question, width/2, 400)
@@ -58,9 +66,11 @@ function mousePressed() {
 
 function score() {
   if (input.value()==displayQuestion.answer){
-
+    ++count
+    scoreCount = 'Correct! Score = ' + count
     console.log("correct")
   }else{
+    scoreCount = 'Wrong! Score = ' + count
     console.log("wrong")
   }
   input.value("")

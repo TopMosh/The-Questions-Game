@@ -5,61 +5,61 @@
     "questions": [ 
         {
             "no": 1,
-            "question": "Question 1: Does brandon love Jalwan? A.Yes B.Yes C.Yes D.Yes",
+            "question": "Question 1: Where is the program stored when it is not running? A.Harddisk B.ROM C.Memory D.RAM",
             "answer": "A"
         },
 
         {
             "no": 2,
-            "question": "Question 2: Does brandon love Jalwan? A.Yes B.Yes C.Yes D.Yes",
+            "question": "Question 2: Where is the program stored when it is running? A.Memory B.Harddisk C.ROM D.External Storage",
             "answer": "A"
         },
 
         {
             "no": 3,
-            "question": "Question 3: Does brandon love Jalwan? A.Yes B.Yes C.Yes D.Yes",
+            "question": "Question 3: 'let x = 2'. What is x? A.Variable B.Function C.Object D.Class",
             "answer": "A"
         },
 
         {
             "no": 4,
-            "question": "Question 4: Does brandon love Jalwan? A.Yes B.Yes C.Yes D.Yes",
+            "question": "Question 4: The full set of operations allowed on a stack are A.Push, pop B.Push, pop, remove C.Push, pop,add, remove D.Push, pop, add, remove, substitute",
             "answer": "A"
         },
 
         {
             "no": 5,
-            "question": "Question 5: Does brandon love Jalwan? A.Yes B.Yes C.Yes D.Yes",
+            "question": "Question 5: What type of data structures are queues?? A.First-in-first-out B.Last-in-first-out C.First-in-last-out D.Last-in-last-out",
             "answer": "A"
         },
 
         {
             "no": 6,
-            "question": "Question 6: Does brandon love Jalwan? A.Yes B.Yes C.Yes D.Yes",
+            "question": "Question 6: Which of the following is not a variable type? A.void B.integer C.float D.string",
             "answer": "A"
         },
 
         {
             "no": 7,
-            "question": "Question 7: Does brandon love Jalwan? A.Yes B.Yes C.Yes D.Yes",
+            "question": "Question 7: Operations allowed on a Que are? A.Shift and Unshift B.Pop and Push C.Add and remove D.Add and delete",
             "answer": "A"
         },
 
         {
             "no": 8,
-            "question": "Question 8: Does brandon love Jalwan? A.Yes B.Yes C.Yes D.Yes",
+            "question": "Question 8: Which of the following is a complex datastructure? A.Linked List B.integer C.String D.Float",
             "answer": "A"
         },
 
         {
             "no": 9,
-            "question": "Question 9: Does brandon love Jalwan? A.Yes B.Yes C.Yes D.Yes",
+            "question": "Question 9: What is a syntax error? A.Error in code B.Error in compilation C.Error in logic D.Error in system",
             "answer": "A"
         },
 
         {
             "no": 10,
-            "question": "Question 10: Does brandon love Jalwan? A.Yes B.Yes C.Yes D.Yes",
+            "question": "Question 10: let x = 2.22'. What is datatype is x? A.Float B.Yes C.Integer D.Array",
             "answer": "A"
         }
 
